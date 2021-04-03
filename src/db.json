@@ -1,0 +1,11 @@
+{
+  "employees": [
+    {
+      "emp_photo": "http://placeimg.com/640/480/nature",
+      "emp_name": "rohan",
+      "emp_education": "bca",
+      "emp_designation": "developer",
+      "id": 1
+    }
+  ]
+}
